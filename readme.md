@@ -8,3 +8,4 @@ Git is a free software.
 
 add some words
 
+Git has a mutable index called stage.
